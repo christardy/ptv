@@ -95,13 +95,13 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
 #EXTINF:-1 group-title="Film TV" ,FILMY
 http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
-#EXTINF:0 group-title="Film TV" tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" ,HBO
+#EXTINF:0 group-title="Film TV" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-hbogo-app.png" ,HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-#EXTINF:0 group-title="Film TV" tvg-name="HBOFamily.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Family.png" ,HBO Family
+#EXTINF:0 group-title="Film TV" tvg-name="HBOFamily.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.jpg" ,HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
-#EXTINF:0 group-title="Film TV" tvg-name="HBOSignature.id" tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" ,HBO Hits
+#EXTINF:0 group-title="Film TV" tvg-name="HBOSignature.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" ,HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
-#EXTINF:0 group-title="Film TV" tvg-name="HBOHits.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Signature.png" ,HBO Signature
+#EXTINF:0 group-title="Film TV" tvg-name="HBOHits.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature
 https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 #EXTINF:-1 group-title="Film TV" tvg-logo="/storage/emulated/0/logo_tv/kix.png" ,KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
@@ -129,7 +129,9 @@ http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 http://rr2.dens.tv/s/s34/index1.m3u8
 #EXTINF:-1 group-title="Film TV" ,WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 group-title="Indonesia TV" ,ANTV
+#EXTINF:-1 group-title="Film TV" tvg-id="CelestialMovies.hk" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" ,Celestial Movies (480p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="antv.id" tvg-logo="https://1.bp.blogspot.com/-M9qShvmE-ag/Xzu_xZblrJI/AAAAAAAACwc/R_xqt77TETELYgu3LUn1WFzD61ijjvq1ACLcBGAsYHQ/s400/Logo%2BANTV.png" ,ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="Indonesia TV" ,Badar TV
 https://e1.siar.us/badartv/live/chunks.m3u8
@@ -143,9 +145,9 @@ http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 group-title="Indonesia TV" tvg-id="IndonesiaChannel.id" ,Indonesia Channel (720p) [Not 24/7]
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia TV" ,INDOSIAR
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="indosiar.id" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Indosiar_2015.svg" tvg-logo-small="https://id.wikipedia.org/wiki/Berkas:Indosiar_2015.svg" ,INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="Indonesia TV" ,INDOSIAR 2
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="indosiar.id" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Indosiar_2015.svg" ,INDOSIAR 2
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 #EXTINF:-1 group-title="Indonesia TV" ,JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
@@ -289,8 +291,6 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-id="TVRParlemenKomisiI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi I (480p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="CelestialMovies.hk" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" ,Celestial Movies (480p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Music" ,Music ONE
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Music" tvg-id="Radio51TV.id" tvg-logo="Logo N/A" ,Radio 51 TV (480p)
